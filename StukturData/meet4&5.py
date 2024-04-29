@@ -2,7 +2,7 @@
 # aritmatika 
 
 # belajar infutan
-intan = input("masukan kata : ")
+sandi= input("masukan kata : ")
 print("isi dari sandi: ", sandi,"bertipe data :",type (sandi))
 
 # belajar aritmatika dasar 
