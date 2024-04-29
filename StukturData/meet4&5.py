@@ -3,7 +3,7 @@
 
 # belajar infutan
 intan = input("masukan kata : ")
-print("isi dari intan: ", sandi,"bertipe data :",type (sandi))
+print("isi dari sandi: ", sandi,"bertipe data :",type (sandi))
 
 # belajar aritmatika dasar 
 x = 4
